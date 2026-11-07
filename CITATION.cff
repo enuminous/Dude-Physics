@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If referring to this creative archive, cite its title, date and supplied provenance; it is not a scientific validation study."
+title: "Dude Physics: A Room, a List, a Rug"
+type: software
+version: 1.0.0
+date-released: 2026-11-07
+authors:
+  - family-names: Wright
+    given-names: Matthew Chenoweth
+abstract: "An AI-assisted creative archive requested by Matthew Chenoweth Wright: a personalized room image, 72-entry inventory, documented conversational joke, essays, labeled satire and an offline interactive index. See PROVENANCE.md for the division of contributions."
+keywords:
+  - creative archive
+  - EFMW
+  - satire
+  - conversational recursion

@@ -1,0 +1,50 @@
+{
+  "project": "Dude Physics",
+  "version": "1.0.0",
+  "prepared": "2026-11-07",
+  "images": [
+    {
+      "file": "room-original.jpeg",
+      "sha256": "e82303f698d418b8650145baf110419b0e724201f1b7759c1ed0c4b9b5260dfe",
+      "bytes": 50398,
+      "origin": "User-supplied original room image"
+    },
+    {
+      "file": "room.png",
+      "sha256": "692b1735054adcfcd6a5d78e95b6bea15e461ddca856c94bf5db19f80494d15d",
+      "bytes": 3151564,
+      "origin": "AI-generated edit of supplied room"
+    }
+  ],
+  "inspected_sources": [
+    {
+      "repository": "enuminous/EFMW",
+      "path": "README.md",
+      "git_blob_sha": "0dfe70d7974d930462ea44cd94d3cedebc228e6e",
+      "inspection_date": "2026-11-07",
+      "repository_commit": null
+    },
+    {
+      "repository": "enuminous/EFMW-Lagrangian",
+      "path": "README.md",
+      "git_blob_sha": "243ab3403603a175f526748b10004b900bd4cb9a",
+      "inspection_date": "2026-11-07",
+      "repository_commit": null
+    },
+    {
+      "repository": "enuminous/Monolithic-Zoo-Lean4",
+      "path": "README.md",
+      "git_blob_sha": "b7a891d417ad7d79043f9f6e61c9aec596bc2c48",
+      "inspection_date": "2026-11-07",
+      "repository_commit": null
+    },
+    {
+      "repository": "enuminous/Boardy-Monolithic-Lean4-Zoo",
+      "path": "study/STUDY.md",
+      "git_blob_sha": "50fbdf2c0a72b627d44bfeddb7965d4ab89e8cec",
+      "inspection_date": "2026-11-07",
+      "repository_commit": "f12fcbe20c772063cb84f764473199a2d83e9414"
+    }
+  ],
+  "external_reproduction": "Not performed for this package"
+}
